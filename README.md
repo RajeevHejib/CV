@@ -35,7 +35,7 @@ Worked in a team of four.  This was our final project. It was built using Java, 
 
 #### Past experience
 
-##### System management
+###### System management
   - Operations, system management and administration support
   - Server configuration, migration, tuning
   - Platforms based on Linux and UNIX
@@ -46,7 +46,7 @@ Worked in a team of four.  This was our final project. It was built using Java, 
     - T-Systems (March 2007 - April 2011)
     - Centrica (June 2001 - February 2007)
 
-##### Application Support
+###### Application Support
   - Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
   - Set up Oracle Database instances
   - Application release, version control and server builds
