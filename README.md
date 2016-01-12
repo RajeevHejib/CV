@@ -1,14 +1,15 @@
 Rajeev Hejib
 ------------
-Previously, I have been in system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by and it didn't provide me career growth.  I have been keen to learn new technologies and web development & coding interested me. I did a switchover by doing the twelve weeks intensive coding bootcamp at Makers Academy, London.
+Previously, I have been working on system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. It didn't provide me any career growth.  I have always been keen to learn new technologies.  Web development & coding interested me. I have now done a twelve weeks intensive coding bootcamp at Makers Academy, London.
 
-I am looking forward to begin my new career as a junior developer in an environment where I can contribute and improve on my newly acquired skills and also get to build new skills learning other technologies.
+I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
 
-My past experience gives me technical skills in areas such as shell scripting, DCL, PL/SQL and Relational Databases.
+My past experience may not be as relevant but I am sure it gives added technical skills.
 
 ### Skills
 
 #### Software Development
+##### Makers Academy (Sepetember 2015 - January 2016)
 
 At Makers Academy I learnt about the best practices in software development, pair programing and most used technologies in today's web development. Some of the work I did during this time was:
 
@@ -23,24 +24,27 @@ At Makers Academy I learnt about the best practices in software development, pai
 [SofAR:](https://github.com/djtango/furniture-app) Worked in a team of three others on our final project. It was built using Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
 #### System management
-HP Enterprise Services - May 2011     - September 2015
-T-Systems              - March 2007   - April 2011
-Centrica               - June 2001    – February 2007
 
-- Experience on operational, system management and administration support activities.
-- Server configuration, migration, system tuning
-- Server Support on platforms based on Linux and UNIX based servers.
-- VAX and Alpha emulators Charon and AVT.
+- May 2011 - August 2015 - HP Enterprise Services
+- March 2007 - April 2011 - T-Systems
+- June 2001 - February 2007 - Centrica
+
+  Experience:
+  - Operations, system management and administration support
+  - Server configuration, migration, tuning
+  - Platforms based on Linux and UNIX
+  - VAX and Alpha emulators - Charon and AVT
 
 #### Application Support
-Xansa                  - August 1995  – May 2001
-Paramarsh Informatics  - May 1990     – July 1995
-Comtech International  - January 1984 – April 1990
+- Xansa                  - August 1995  – May 2001
+- Paramarsh Informatics  - May 1990     – July 1995
+- Comtech International  - January 1984 – April 1990
 
-- Worked on technologies involving Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
-- Installed and set up Oracle Database instances
-- Worked on application release, version control and server builds.
-- Dealt and resolved application failures incidents
+  Experience:
+  - Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
+  - Set up Oracle Database instances
+  - Application release, version control and server builds
+  - Dealt and resolved application failures, incidents
 
 #### Training, Certificates & Awards:
 - HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
