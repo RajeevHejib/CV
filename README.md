@@ -42,7 +42,7 @@ Worked in a team of four.  This was our final project. It was built using Java, 
   - VAX and Alpha emulators - Charon and AVT
 
     Work History:
-    - Hp Enterprise Services (May 2011 - August 2015)
+    - HP Enterprise Services (May 2011 - August 2015)
     - T-Systems (March 2007 - April 2011)
     - Centrica (June 2001 - February 2007)
 
@@ -53,9 +53,9 @@ Worked in a team of four.  This was our final project. It was built using Java, 
   - Dealt and resolved application failures, incidents
 
     Work History:
-    - Xansa                  - August 1995  – May 2001
-    - Paramarsh Informatics  - May 1990     – July 1995
-    - Comtech International  - January 1984 – April 1990
+    - Xansa (August 1995 – May 2001)
+    - Paramarsh Informatics (May 1990 – July 1995)
+    - Comtech International (January 1984 – April 1990)
 
 #### Training, Certificates & Awards:
 - HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
