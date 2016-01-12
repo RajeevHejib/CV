@@ -21,7 +21,7 @@ At Makers Academy I learnt about the best practices in software development, pai
 
 [ToDo:](https://github.com/RajeevHejib/todo_challenge) A to-do web application developed using AngularJS and tested with Karma and Protractor
 
-[SofAR:](https://github.com/djtango/furniture-app) Worked in a team of three others on our final project. It was built using Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
+[SofAR:](https://github.com/djtango/furniture-app) Worked in a team of four.  This was our final project. It was built using Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
 ## My past Experience
 
@@ -46,8 +46,6 @@ At Makers Academy I learnt about the best practices in software development, pai
     - Xansa                  - August 1995  – May 2001
     - Paramarsh Informatics  - May 1990     – July 1995
     - Comtech International  - January 1984 – April 1990
-
-    Experience:
 
 ## Training, Certificates & Awards:
 - HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
