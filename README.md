@@ -1,10 +1,10 @@
 # Rajeev Hejib
 
-Previously, I have been working on system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. It didn't provide me any career growth.  I have always been keen to learn new technologies.  Web development & coding interested me. I have now done a twelve weeks intensive coding bootcamp at Makers Academy, London.
+Previously, I have been working on system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
 
-I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
+Now that I have successfully completed the course, I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
 
-My past experience may not be as relevant but I am sure it gives added technical skills.
+My past experience may not be as relevant but I am sure it gives me added technical skills.
 
 ## Skills
 
@@ -23,34 +23,33 @@ At Makers Academy I learnt about the best practices in software development, pai
 
 [SofAR:](https://github.com/djtango/furniture-app) Worked in a team of three others on our final project. It was built using Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
-### System management
+## My past Experience
 
-- Operations, system management and administration support
-- Server configuration, migration, tuning
-- Platforms based on Linux and UNIX
-- VAX and Alpha emulators - Charon and AVT
+#### System management
+  - Operations, system management and administration support
+  - Server configuration, migration, tuning
+  - Platforms based on Linux and UNIX
+  - VAX and Alpha emulators - Charon and AVT
 
-  Work History:
-  - Hp Enterprise Services (May 2011 - August 2015)
-  - T-Systems (March 2007 - April 2011)
-  - Centrica (June 2001 - February 2007)
-
-  Experience:
+    Work History:
+    - Hp Enterprise Services (May 2011 - August 2015)
+    - T-Systems (March 2007 - April 2011)
+    - Centrica (June 2001 - February 2007)
 
 #### Application Support
-- Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
-- Set up Oracle Database instances
-- Application release, version control and server builds
-- Dealt and resolved application failures, incidents
+  - Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
+  - Set up Oracle Database instances
+  - Application release, version control and server builds
+  - Dealt and resolved application failures, incidents
 
-  Work History:
-  - Xansa                  - August 1995  – May 2001
-  - Paramarsh Informatics  - May 1990     – July 1995
-  - Comtech International  - January 1984 – April 1990
+    Work History:
+    - Xansa                  - August 1995  – May 2001
+    - Paramarsh Informatics  - May 1990     – July 1995
+    - Comtech International  - January 1984 – April 1990
 
-  Experience:
+    Experience:
 
-#### Training, Certificates & Awards:
+## Training, Certificates & Awards:
 - HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
 - HP Open VMS Disaster Tolerant Cluster Systems (from DEC) -  Year 2001
 - Sun Solaris V9 - System Admin (Sun Systems) – Year 2006
@@ -60,6 +59,6 @@ At Makers Academy I learnt about the best practices in software development, pai
 - ITIL Foundation - 2004
 - Employee award for outstanding achievements and special staff recognition – Year 1998, 1999, 2008, 2009
 
-#### Education:
+## Education:
 - 1982 - B.Sc. Mathematics, India
 - 1983 – Post Graduate course in Computer Science & Programming Languages from NIIT (National Institute for Information Technology) India.
