@@ -11,7 +11,7 @@ My past experience may not be as relevant but I am sure it gives me added techni
 ##### Software Development
 ###### Makers Academy (September 2015 - January 2016)
 
-At Makers Academy I learnt about the best practices in software development, pair programing and most used technologies in today's web development. Some of the work I did during this time was:
+At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development. Some of the work I did during this time was:
 
 [Chitter:](https://github.com/RajeevHejib/chitter-challenge)
 
@@ -23,7 +23,7 @@ A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using R
 
 [Instagram:](https://github.com/RajeevHejib/instagram-challenge)
 
-A clone of Instagram developed using Ruby on Rails, PostgreSQL and Tested using Rspec and Capybara
+A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec and Capybara
 
 [ToDo:](https://github.com/RajeevHejib/todo_challenge)
 
