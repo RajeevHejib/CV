@@ -9,7 +9,7 @@ My past experience may not be as relevant but I am sure it gives me added techni
 ### Skills
 
 ##### Software Development
-###### Makers Academy (Sepetember 2015 - January 2016)
+###### Makers Academy (September 2015 - January 2016)
 
 At Makers Academy I learnt about the best practices in software development, pair programing and most used technologies in today's web development. Some of the work I did during this time was:
 
