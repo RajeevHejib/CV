@@ -40,8 +40,7 @@ Worked in a team of four.  This was our final project. It was built using Java, 
   - Server configuration, migration, tuning
   - Platforms based on Linux and UNIX
   - VAX and Alpha emulators - Charon and AVT
-
-    Work History:
+  - Work History:
     - HP Enterprise Services (May 2011 - August 2015)
     - T-Systems (March 2007 - April 2011)
     - Centrica (June 2001 - February 2007)
@@ -51,8 +50,7 @@ Worked in a team of four.  This was our final project. It was built using Java, 
   - Set up Oracle Database instances
   - Application release, version control and server builds
   - Dealt and resolved application failures, incidents
-
-    Work History:
+  - Work History:
     - Xansa (August 1995 – May 2001)
     - Paramarsh Informatics (May 1990 – July 1995)
     - Comtech International (January 1984 – April 1990)
