@@ -53,14 +53,11 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 
 Technical Skills and Technologies
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+         +Strong	 +              Know	    +   Touched on+
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Languages	Ruby, Javascript	CSS3, HTML5, jQuery	Cylon.js
-Databases/ORMS	PostGresQL, DataMapper	ActiveRecord	Firebase
-Frameworks	Sinatra, Ruby on Rails, AngularJS	Ionic, Node.js, Express.js
-Testing	RSpec, Jasmine, Capybara	Karma, Protractor	Phantom.js
-Other	Version control through Github	Heroku deployment, Agile methodologies
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
