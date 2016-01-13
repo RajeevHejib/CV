@@ -25,7 +25,7 @@ Now that I have successfully completed the course, I am looking forward to begin
 ## Education
 
 
-  Makers Academy (September 2015 - January 2016)
+At Makers Academy (September 2015 - January 2016)
 
 - B.Sc. Mathematics, 1982
 - Computer Science & Programming Languages, 1983
@@ -52,13 +52,16 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 
 
-Technical Skills and Technologies
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+###### Technical Skills and Technologies
 
+
+|               | Strong        | Know  | Touched on   |
+| ------------- | ------------- | ----- | ------------ |
+| Languages     | Ruby, Javascript | CSS, HTML, jQuery | Java, Swift             |
+| Database      | PostgreSQL, MongoDB, DataMapper      | ActiveRecord | Firebase              |
+| Frameworks    | Sinatra, Ruby on Rails, Angular JS      | Node.js, Android Studio, Eclipse |              |
+| Testing       |Rspec, Capybara, Jasmine | Karma, Protractor | |
+| Other         | Git | | | |
 
 
 At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development. Some of the work I did during this time was:
@@ -84,6 +87,7 @@ A to-do web application developed using AngularJS and tested with Karma and Prot
 Worked in a team of four.  This was our final project. It was built using Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
 #### Past experience
+
 
 ###### System management
   - Operations, system management
