@@ -36,7 +36,7 @@ Worked in a team of four.  This was our final project. It was built using Androi
 #### Past experience
 
 ###### System management
-  - Operations, system management and administration support
+  - Operations, system management
   - Server configuration, migration, tuning
   - Platforms based on Linux and UNIX
   - VAX and Alpha emulators - Charon and AVT
