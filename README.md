@@ -1,4 +1,9 @@
 ## Rajeev Hejib
+___
+
+(....CV work is in progress...)
+
+###### Available for work full time as a Junior Developer in London, UK
 
 Previously, I have been working on system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
 
@@ -6,9 +11,31 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 
 ### Skills
+___
 
 ##### Software Development
-###### Makers Academy (September 2015 - January 2016)
+___
+<----put some details here---->
+
+##### System Management
+___
+<----put some details here---->
+
+##### Application Support
+___
+<----put some details here---->
+
+
+### Education
+
+
+  Makers Academy (September 2015 - January 2016)
+
+- B.Sc. Mathematics, 1982
+- Computer Science & Programming Languages, 1983
+- Coding bootcamp
+September 2015-January 2016
+
 
 At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development. Some of the work I did during this time was:
 
