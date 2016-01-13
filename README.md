@@ -9,18 +9,16 @@ Previously, I have been working on system management/system admin on platforms b
 Now that I have successfully completed the course, I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
 
 
-### Skills
+## Skills
 <hr
 
 ##### Software Development
 <----put some details here---->
 
 ##### System Management
-___
 <----put some details here---->
 
 ##### Application Support
-___
 <----put some details here---->
 
 
