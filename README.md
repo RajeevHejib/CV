@@ -2,9 +2,9 @@
 
 (....CV work is in progress...)
 
-###### Available for work full time as a Junior Developer in London, UK
+###### Available for working full time as a Junior Developer, London, UK
 
-Previously, I have been working on system management/system admin on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
+Previously, I have been working on operating system management on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
 
 Now that I have successfully completed the course, I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
 
@@ -13,7 +13,42 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 ##### Software Development
 
-<----put some details here---->
+At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development.
+
+Some of the projects I built used Ruby, Sinatra, PostgreSQL, DataMapper.  They were tested using Rspec, Capybara, Karma and Protractor.
+
+ [Chitter:](https://github.com/RajeevHejib/chitter-challenge).  This
+
+A twitter clone built with Ruby, Sinatra, PostgreSQL and DataMapper. Tested using Rspec, Capybara.
+
+[RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge)
+
+A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using Rspec, Capybara
+
+[Instagram:](https://github.com/RajeevHejib/instagram-challenge)
+
+A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec, Capybara
+
+[ToDo:](https://github.com/RajeevHejib/todo_challenge)
+
+A to-do web application developed using AngularJS and tested with Karma and Protractor
+
+[SofAR:](https://github.com/djtango/furniture-app)
+
+Worked in a team of four.  This was our final project. It was built using Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
+
+###### Technical Skills and Technologies
+
+
+|               | Strong        | Know  |
+| ------------- | ------------- | ----- | ------------ |
+| Languages     | Ruby, Javascript | CSS, HTML, jQuery, Java |
+| Database      | PostgreSQL, MongoDB, DataMapper      | ActiveRecord, Firebase|
+| Frameworks    | Sinatra, Ruby on Rails, Angular JS      | Node.js, Android Studio, Eclipse |
+| Testing       |Rspec, Capybara, Jasmine | Karma, Protractor |
+| Other         | Git, Waffle | | |
+
+
 
 ##### System Management
 <----put some details here---->
@@ -24,12 +59,9 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 ## Education
 
-
-At Makers Academy (September 2015 - January 2016)
-
-- B.Sc. Mathematics, 1982
-- Computer Science & Programming Languages, 1983
 - Coding bootcamp, Makers Academy, September 2015-January 2016
+- Computer Science & Programming Languages, 1983
+- B.Sc. Mathematics, 1982
 
 ## Work
 - HP Enterprise Services (May 2011 - August 2015)
@@ -52,39 +84,7 @@ At Makers Academy (September 2015 - January 2016)
 
 
 
-###### Technical Skills and Technologies
 
-
-|               | Strong        | Know  | Touched on   |
-| ------------- | ------------- | ----- | ------------ |
-| Languages     | Ruby, Javascript | CSS, HTML, jQuery | Java, Swift             |
-| Database      | PostgreSQL, MongoDB, DataMapper      | ActiveRecord | Firebase              |
-| Frameworks    | Sinatra, Ruby on Rails, Angular JS      | Node.js, Android Studio, Eclipse |              |
-| Testing       |Rspec, Capybara, Jasmine | Karma, Protractor | |
-| Other         | Git | | | |
-
-
-At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development. Some of the work I did during this time was:
-
-[Chitter:](https://github.com/RajeevHejib/chitter-challenge)
-
-A twitter clone built with Ruby, Sinatra, PostgreSQL and DataMapper. Tested using Rspec, Capybara.
-
-[RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge)
-
-A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using Rspec, Capybara
-
-[Instagram:](https://github.com/RajeevHejib/instagram-challenge)
-
-A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec, Capybara
-
-[ToDo:](https://github.com/RajeevHejib/todo_challenge)
-
-A to-do web application developed using AngularJS and tested with Karma and Protractor
-
-[SofAR:](https://github.com/djtango/furniture-app)
-
-Worked in a team of four.  This was our final project. It was built using Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
 #### Past experience
 
