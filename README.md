@@ -31,7 +31,7 @@ A to-do web application developed using AngularJS and tested with Karma and Prot
 
 [SofAR:](https://github.com/djtango/furniture-app)
 
-Worked in a team of four.  This was our final project. It was built using Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
+Worked in a team of four.  This was our final project. It was built using Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
 
 #### Past experience
 
