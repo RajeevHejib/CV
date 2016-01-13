@@ -10,9 +10,9 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 
 ## Skills
-<hr
 
 ##### Software Development
+
 <----put some details here---->
 
 ##### System Management
@@ -22,15 +22,46 @@ Now that I have successfully completed the course, I am looking forward to begin
 <----put some details here---->
 
 
-### Education
+## Education
 
 
   Makers Academy (September 2015 - January 2016)
 
 - B.Sc. Mathematics, 1982
 - Computer Science & Programming Languages, 1983
-- Coding bootcamp
-September 2015-January 2016
+- Coding bootcamp, Makers Academy, September 2015-January 2016
+
+## Work
+- HP Enterprise Services (May 2011 - August 2015)
+- T-Systems (March 2007 - April 2011)
+- Centrica (June 2001 - February 2007)
+- Xansa (August 1995 – May 2001)
+- Paramarsh Informatics (May 1990 – July 1995)
+- Comtech International (January 1984 – April 1990)
+
+
+## Training, Certificates & Awards
+- HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
+- HP Open VMS Disaster Tolerant Cluster Systems (from DEC) -  Year 2001
+- Sun Solaris V9 - System Admin (Sun Systems) – Year 2006
+- Linux System Admin Course (HP University) – Year 2010, 2015
+- PRINCE2 Project Management – SkillSoft - 2015
+- Storage Network  Foundation Certificate from SNIA – Year 2005
+- ITIL Foundation - 2004
+- Employee award for outstanding achievements and special staff recognition – Year 1998, 1999, 2008, 2009
+
+
+
+Technical Skills and Technologies
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++         +Strong	 +              Know	    +   Touched on+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Languages	Ruby, Javascript	CSS3, HTML5, jQuery	Cylon.js
+Databases/ORMS	PostGresQL, DataMapper	ActiveRecord	Firebase
+Frameworks	Sinatra, Ruby on Rails, AngularJS	Ionic, Node.js, Express.js
+Testing	RSpec, Jasmine, Capybara	Karma, Protractor	Phantom.js
+Other	Version control through Github	Heroku deployment, Agile methodologies
+
 
 
 At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development. Some of the work I did during this time was:
@@ -73,19 +104,7 @@ Worked in a team of four.  This was our final project. It was built using Androi
   - Application release, version control and server builds
   - Dealt and resolved application failures, incidents
   - Work History:
-    - Xansa (August 1995 – May 2001)
-    - Paramarsh Informatics (May 1990 – July 1995)
-    - Comtech International (January 1984 – April 1990)
 
-#### Training, Certificates & Awards:
-- HP Open VMS 7.3-2 System Management I & II (Digital Equipment Corp – DEC) Year 2001 - 2002.
-- HP Open VMS Disaster Tolerant Cluster Systems (from DEC) -  Year 2001
-- Sun Solaris V9 - System Admin (Sun Systems) – Year 2006
-- Linux System Admin Course (HP University) – Year 2010, 2015
-- PRINCE2 Project Management – SkillSoft - 2015
-- Storage Network  Foundation Certificate from SNIA – Year 2005
-- ITIL Foundation - 2004
-- Employee award for outstanding achievements and special staff recognition – Year 1998, 1999, 2008, 2009
 
 #### Education:
 - 1982 - B.Sc. Mathematics, India
