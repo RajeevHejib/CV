@@ -10,10 +10,9 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 
 ### Skills
-___
+<hr
 
 ##### Software Development
-___
 <----put some details here---->
 
 ##### System Management
