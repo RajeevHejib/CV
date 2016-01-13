@@ -15,15 +15,15 @@ At Makers Academy I learnt about the best practices in software development, pai
 
 [Chitter:](https://github.com/RajeevHejib/chitter-challenge)
 
-A twitter clone built with Ruby, Sinatra, PostgreSQL and DataMapper. Tested using Rspec/Capybara.
+A twitter clone built with Ruby, Sinatra, PostgreSQL and DataMapper. Tested using Rspec, Capybara.
 
 [RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge)
 
-A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using Rspec/Capybara
+A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using Rspec, Capybara
 
 [Instagram:](https://github.com/RajeevHejib/instagram-challenge)
 
-A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec and Capybara
+A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec, Capybara
 
 [ToDo:](https://github.com/RajeevHejib/todo_challenge)
 
