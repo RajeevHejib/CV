@@ -1,10 +1,8 @@
 ## Rajeev Hejib
 
-(....CV work is in progress...)
+###### Available for working full time as a Junior Developer in London and around.
 
-###### Available for working full time as a Junior Developer, London, UK
-
-Previously, I have been working on operating system management on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
+Previously, I have been working on operating systems management on platforms based on Open VMS, Linux and Unix. The work became less interesting as time went by. I have always been keen to learn new technologies.  Web development & coding interested me very much. My extensive search culminated at deciding to do the twelve weeks intensive coding bootcamp at Makers Academy, London.
 
 Now that I have successfully completed the course, I am looking forward to begin my new career as a junior developer in an environment where I can contribute and make a difference.  As I go along I intend to improve on my newly acquired skills and also get to develop more skills learning other technologies.
 
@@ -13,31 +11,16 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 ##### Software Development
 
-At Makers Academy I learnt about the best practices in software development, pair programing, test driven development and most used technologies in today's web development.
+At Makers Academy I was introduced to the the most used technologies in today's web development. I learnt about the best practices in software development, pair programing and the principles of test driven development.
 
-Some of the projects I built used Ruby, Sinatra, PostgreSQL, DataMapper.  They were tested using Rspec, Capybara, Karma and Protractor.
+Some of the projects I did were developed using Ruby, Javascript and used frameworks like Sinatra, Ruby on Rails also the databases such as PostgreSQL, DataMapper.  For testing I learned using Rspec, Capybara, Karma and Protractor.
 
- [Chitter:](https://github.com/RajeevHejib/chitter-challenge).  This
+Here are some of my code samples:
+ [Chitter:](https://github.com/RajeevHejib/chitter-challenge) - A twitter clone, [RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge) - A web bases Rock, Paper, Scissors game,  [Instagram:](https://github.com/RajeevHejib/instagram-challenge) - A clone of Instagram and  [ToDo:](https://github.com/RajeevHejib/todo_challenge) A to-do web application developed using AngularJS and tested with Karma and Protractor
 
-A twitter clone built with Ruby, Sinatra, PostgreSQL and DataMapper. Tested using Rspec, Capybara.
+[SofAR:](https://github.com/djtango/furniture-app)  Was my final project.  This was an android based application.  This  is a furniture placement tool based on the principles of augmented reality.  For this project I learned a completely new set of technologies that we didn't learn during the previous weeks of the course.  These were Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK.  In addition we used HTML and CSS.
 
-[RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge)
-
-A web bases Rock, Paper, Scissors game. Built with Ruby, Sinatra. Tested using Rspec, Capybara
-
-[Instagram:](https://github.com/RajeevHejib/instagram-challenge)
-
-A clone of Instagram developed using Ruby on Rails, PostgreSQL and tested using Rspec, Capybara
-
-[ToDo:](https://github.com/RajeevHejib/todo_challenge)
-
-A to-do web application developed using AngularJS and tested with Karma and Protractor
-
-[SofAR:](https://github.com/djtango/furniture-app)
-
-Worked in a team of four.  This was our final project. It was built using Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK, HTML, CSS.
-
-###### Technical Skills and Technologies
+###### Technical Skills and Technologies I learnt at Makers Academy
 
 
 |               | Strong        | Know  |
@@ -46,15 +29,17 @@ Worked in a team of four.  This was our final project. It was built using Androi
 | Database      | PostgreSQL, MongoDB, DataMapper      | ActiveRecord, Firebase|
 | Frameworks    | Sinatra, Ruby on Rails, Angular JS      | Node.js, Android Studio, Eclipse |
 | Testing       |Rspec, Capybara, Jasmine | Karma, Protractor |
-| Other         | Git, Waffle | | |
+| Other         | Git, Waffle, Agile | | |
 
 
 
 ##### System Management
-<----put some details here---->
+
+Most of my past working experience consists of operating systems support. I am well versed with OpenVMS, Linux and Unix environments.  I am proficient in server build, user support to performance tuning techniques. Most of my work has been on OpenVMS.  I have supported large setups for clients like HP, Centrica, RAC, Alcatel-Lucent etc. I also have working knowledge on shell scripting, DCL scripting and hardware emulators like Charon and AVT.
 
 ##### Application Support
-<----put some details here---->
+
+I began my career in IT as a programmer.  In my early years I coded in COBOL, Pascal and C.  But with time I switched to activities which were more around application support.  During this time I gained experience on Oracle Databases and related tools such as Oracle Forms, Report writer etc.
 
 
 ## Education
@@ -81,32 +66,3 @@ Worked in a team of four.  This was our final project. It was built using Androi
 - Storage Network  Foundation Certificate from SNIA – Year 2005
 - ITIL Foundation - 2004
 - Employee award for outstanding achievements and special staff recognition – Year 1998, 1999, 2008, 2009
-
-
-
-
-
-#### Past experience
-
-
-###### System management
-  - Operations, system management
-  - Server configuration, migration, tuning
-  - Platforms based on Linux and UNIX
-  - VAX and Alpha emulators - Charon and AVT
-  - Work History:
-    - HP Enterprise Services (May 2011 - August 2015)
-    - T-Systems (March 2007 - April 2011)
-    - Centrica (June 2001 - February 2007)
-
-###### Application Support
-  - Oracle Database (Version 8 and 9i), Oracle Forms 4.5 and PL/SQL.
-  - Set up Oracle Database instances
-  - Application release, version control and server builds
-  - Dealt and resolved application failures, incidents
-  - Work History:
-
-
-#### Education:
-- 1982 - B.Sc. Mathematics, India
-- 1983 – Post Graduate course in Computer Science & Programming Languages from NIIT (National Institute for Information Technology) India.
