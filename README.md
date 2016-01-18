@@ -20,19 +20,6 @@ Here are some of my code samples:
 
 [SofAR:](https://github.com/djtango/furniture-app)  Was my final project.  This was an android based application.  This  is a furniture placement tool based on the principles of augmented reality.  For this project I learned a completely new set of technologies that we didn't learn during the previous weeks of the course.  These were Android Studio, Java, Javascript, Wikitude-mobile focused AR SDK.  In addition we used HTML and CSS.
 
-###### Technical Skills and Technologies I learnt at Makers Academy
-
-
-|               | Strong        | Know  |
-| ------------- | ------------- | ----- | ------------ |
-| Languages     | Ruby, Javascript | CSS, HTML, jQuery, Java |
-| Database      | PostgreSQL, MongoDB, DataMapper      | ActiveRecord, Firebase|
-| Frameworks    | Sinatra, Ruby on Rails, Angular JS      | Node.js, Android Studio, Eclipse |
-| Testing       |Rspec, Capybara, Jasmine | Karma, Protractor |
-| Other         | Git, Waffle, Agile | | |
-
-
-
 ##### System Management
 
 Most of my past working experience consists of operating systems support. I am well versed with OpenVMS, Linux and Unix environments.  I am proficient in server build, user support to performance tuning techniques. Most of my work has been on OpenVMS.  I have supported large setups for clients like HP, Centrica, RAC, Alcatel-Lucent etc. I also have working knowledge on shell scripting, DCL scripting and hardware emulators like Charon and AVT.
