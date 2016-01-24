@@ -13,7 +13,7 @@ Now that I have successfully completed the course, I am looking forward to begin
 
 At Makers Academy I was introduced to the the most used technologies in today's web development. I learnt about the best practices in software development, pair programing and the principles of test driven development.
 
-Some of the projects I did were developed using Ruby, Javascript and used frameworks like Sinatra, Ruby on Rails also the databases such as PostgreSQL, DataMapper.  For testing I learned using Rspec, Capybara, Karma and Protractor.
+Some of the projects I did were developed using Ruby, Javascript and used frameworks like Sinatra, Ruby on Rails also the databases such as PostgreSQL, MongoDB.  For testing I learned using Rspec, Capybara, Karma and Protractor.
 
 Here are some of my code samples:
  [Chitter:](https://github.com/RajeevHejib/chitter-challenge) - A twitter clone, [RPS (Rock, Paper, Scissors):](https://github.com/RajeevHejib/rps-challenge) - A web bases Rock, Paper, Scissors game,  [Instagram:](https://github.com/RajeevHejib/instagram-challenge) - A clone of Instagram and  [ToDo:](https://github.com/RajeevHejib/todo_challenge) A to-do web application developed using AngularJS and tested with Karma and Protractor
